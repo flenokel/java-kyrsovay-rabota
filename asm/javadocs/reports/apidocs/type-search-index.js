@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"project.asm","l":"Analyzer"},{"p":"project.asm","l":"Launcher"}];updateSearchResults();
